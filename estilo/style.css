@@ -18,7 +18,6 @@ h1 {
     position: absolute;
     top: 130px;
     letter-spacing: 5px;
-    background:linear-gradient(120deg, #0D0C0B, #403F45, #FFDB2F);
     padding: 10px;
     border-radius: 10px;
 }
